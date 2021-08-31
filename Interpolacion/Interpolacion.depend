@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630446505 source:c:\users\jeant\onedrive\escritorio\interpolacion\main.cpp
+	<iostream>
+	<fstream>
+
